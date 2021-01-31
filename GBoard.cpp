@@ -30,6 +30,7 @@ GBoard::GBoard()
 **************************************************************************************************/
 
 
+
 gameState GBoard::getGameState()
 {
 	return stateOfGame;
